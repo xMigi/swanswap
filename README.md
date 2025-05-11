@@ -1,4 +1,4 @@
-# 🦢 SwanSwap – Swap, Spin & Win on Web3
+# 🦢 SwanSwap – Swap & Win on Web3
 
 SwanSwap is a decentralized Web3 platform combining token swapping, a spin-to-win wheel game, Discord-based token airdrops, and a premium feature system powered by Solana and Firebase.
 
